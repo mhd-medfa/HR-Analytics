@@ -15,6 +15,8 @@ Salary,
 Whether the employee has left.
 ### Technologies:
 •Programming languages: Python 3.6
-•Libraries: Sklearn, Pandas, Matplotlib, Seaborn,..etc
+
+•Libraries: Sklearn, Pandas, Matplotlib, Seaborn
+
 •Algorithms: Logistic Regression, Support Vector Machine with RBF Kernel
 
