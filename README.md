@@ -1,4 +1,12 @@
-## HR-Analytics
+# HR-Analytics
+
+[![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.6-red.svg)](https://docs.python.org/release/3.6/)
+[![Numpy](https://img.shields.io/badge/Numpy-1.11.0-informational.svg)](https://pypi.org/project/numpy/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.7-important.svg)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0.2-blue.svg)](https://matplotlib.org/)
+[![Pandas](https://img.shields.io/badge/pandas-0.19-blue.svg)](http://pandas.pydata.org)
+
 Human Resources Analytics: Why are our best and most experienced employees leaving prematurely?
 
 This Project uses data from kaggle and aims to analyze and predict who have left/will leave from the (X) corp.
